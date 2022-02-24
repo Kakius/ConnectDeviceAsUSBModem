@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ConnectDeviceAsUSBModem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ConnectDeviceAsUSBModem_jar</output-path>
+    <root id="archive" name="ConnectDeviceAsUSBModem.jar">
+      <element id="module-output" name="ConnectDeviceAsUSBModem" />
+    </root>
+  </artifact>
+</component>
